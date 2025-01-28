@@ -1,8 +1,6 @@
 # Lab 3: Building your own n-gram model
 
-In this lab, you'll building your own n-gram model which you can use to generate text and to evaluate the probability of a text.
-
-The lab will be entirely contained within a [Colab notebook](https://colab.research.google.com/drive/1WGYCkZ_6kwDLtNs6eXBriDEjSJi4v5vu?usp=sharing). 
+In this lab, you'll be building your own n-gram model which you will use to generate text and to evaluate the probability of a text.
 
 ### Overview 
 1. Clone the lab repo down to your own machine. [Here's a link to detailed directions for doing this with GitHub Desktop and with git from the command line](https://github.com/CSCI-3349-S25/git-instructions). 
@@ -13,7 +11,7 @@ The lab will be entirely contained within a [Colab notebook](https://colab.resea
 
 ### Part 1: Getting your own copy of the Colab notebook.
 
-[Here's a link to the Colab notebook for lab 2](https://colab.research.google.com/drive/1WGYCkZ_6kwDLtNs6eXBriDEjSJi4v5vu?usp=sharing). Remember you need to save a copy in your drive to start editing!
+[Here's a link to the Colab notebook for lab 3](https://colab.research.google.com/drive/1WGYCkZ_6kwDLtNs6eXBriDEjSJi4v5vu?usp=sharing). Remember you need to save a copy in your drive to start editing!
 
 
 ### Part 2: Complete the Colab notebook
